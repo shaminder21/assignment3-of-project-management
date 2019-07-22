@@ -1,0 +1,42 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{electron uml and use case}
+\author{tatlashaminder }
+\date{July 2019}
+
+\usepackage{natbib}
+\usepackage{graphicx}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+ Keep record of different categories (books , journals , newspapers and  magazines ).
+easy way to add new books .
+Provide full information about every single book.
+Different  criteria for searching book. (by title, author , subject , unique bar code).
+Note panel to keep everyone updated .
+Easy to log in and sign up.
+Track the number of book available for one specific book.
+Book reservation  in advance.
+
+\section{TOP USE CASES}
+ Add , Remove , Edit Books & information.
+Search by different catalogs.
+Register new account or delete old .
+Borrow / Reserve / Renew / Return a book.
+\newline
+\section{main actors}
+\newline 
+ Person responsible for modifying books , items , users , check issued , reserved books record. 
+Different users for search by different categories , booking , reserved and return books.
+System for sending notifications about overdue books , canceled and new updates.
+\newline
+\section{related links of LUCID CHART and PREZI}
+\usepackage{hyperref}
+https://www.lucidchart.com/documents/edit/df458db5-6df5-4b28-b726-5cbe1a78d7f1/0?shared=true&
+\newline
+\usepackage{hyperref} https://prezi.com/p/oer5a6adevzn/library-management-system/
+\end{document}
